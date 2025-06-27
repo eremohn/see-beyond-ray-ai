@@ -50,6 +50,42 @@ Decisión: Se conservarán como teasers visuales dentro del portafolio.
 
 ---
 
+### 🛠️ Pictory (https://pictory.ai/) ✅
+
+- **Tipo de contenido:** Video publicitario completo generado a partir de un script narrativo.
+- **Resultado:** Previsualización con gran estética visual, ritmo narrativo coherente y tono de marca logrado.
+- **Nombre del archivo:** `pictory-Ray_AI__See_Beyond.mp4`
+- **Decisión:** Este será el **video principal de campaña publicitaria** dentro del portfolio.
+
+---
+
+## 📝 Guion Publicitario – *Ray AI – See Beyond* (Luxury Edition)
+
+> In a world driven by speed and sensation...  
+> One creation dares to redefine elegance, intelligence, and desire.  
+>  
+> **Ray AI.**  
+>  
+> Not just smart. Seductive. Powerful. Intuitive.  
+> Sunglasses that see with you, think with you — and understand you.  
+>  
+> From city lights to sun-drenched horizons,  
+> every glance becomes a statement.  
+>  
+> For the bold. The curious. The unstoppable.  
+>  
+> Where luxury meets learning, and fashion embraces function.  
+>  
+> Your vision. Amplified.  
+> Your presence. Undeniable.  
+>  
+> **Ray AI – See Beyond.**
+
+---
+
+🎬 Con este último video generado en Pictory, se completa la etapa de video del proyecto **Ray AI**.  
+Cada versión producida se conservará en el repositorio para reflejar el proceso iterativo, el aprendizaje explorado, y la evolución estética del mensaje visual.
+
 ## 🔁 Conclusiones
 Las herramientas exploradas aportaron valor en distintos aspectos: expresión técnica, estilo editorial y teaser visual.
 
@@ -69,6 +105,7 @@ Ejemplos:
 - `colossyan_Ray_AI_ Elevate_Your_Potential.mp4`  
 - `runway_teaser.mp4`
 - `runway_teaser_2.mp4`
+- `pictory-Ray_AI__See_Beyond.mp4`
 
 De este modo, cada video queda claramente identificado con la plataforma que lo generó y su propósito o estilo visual.
 
