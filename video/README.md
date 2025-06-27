@@ -56,3 +56,19 @@ Las herramientas exploradas aportaron valor en distintos aspectos: expresión t�
 La etapa de video no ha concluido: se continuará explorando plataformas como Pika Labs, HeyGen, o herramientas de edición como CapCut o DaVinci Resolve para construir el spot principal a partir de múltiples clips o animaciones.
 
 A pesar de las limitaciones, se logró capturar la identidad visual y emocional de Ray AI con fragmentos que fortalecen el storytelling general del proyecto.
+
+## 🗂️ Organización de Archivos de Video
+
+Para mantener claridad y facilitar la identificación de cada archivo generado, se utilizó la siguiente convención de nombres:
+
+`<nombre_plataforma>-<nombre_descriptivo>.mp4`
+
+Ejemplos:
+
+- `invideo-avatar_sci-fi.mp4`  
+- `colossyan_Ray_AI_ Elevate_Your_Potential.mp4`  
+- `runway_teaser.mp4`
+- `runway_teaser_2.mp4`
+
+De este modo, cada video queda claramente identificado con la plataforma que lo generó y su propósito o estilo visual.
+
