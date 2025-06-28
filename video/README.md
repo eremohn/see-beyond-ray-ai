@@ -108,4 +108,7 @@ Ejemplos:
 - `pictory-Ray_AI__See_Beyond.mp4`
 
 De este modo, cada video queda claramente identificado con la plataforma que lo generó y su propósito o estilo visual.
+Los videos generados se encuentran en la carpeta /outputs dentro de este directorio.
+
+
 
