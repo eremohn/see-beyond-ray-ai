@@ -34,13 +34,21 @@ Este repositorio contiene todos los entregables desarrollados para la campaña d
 | `/audio/` | Texto base, herramienta utilizada y resultado final |
 | `/video/` | Guion, storyboard y link al video generado |
 | `/textos/` | Fragmentos narrativos y storytelling general del producto |
-| `/presentacion/` | Archivo PDF de la presentación y link a Framer |
+| `/presentacion/` | Link de la presentacion en Gamma |
+| `/web/` |  pagina web creada en Framer |
 
 ---
 
 ## 🌐 Portafolio final
 
-📎 Link al proyecto en Framer: *(lo agregaré aquí una vez finalizado)*
+## 🌐 Portafolio final
+
+📽️ **Presentación en Gamma:**  
+[![Ver presentación en Gamma](https://img.shields.io/badge/Gamma-Ray_AI_Mirá_más_allá-blueviolet?style=flat-square&logo=gamma)](https://gamma.app/docs/Ray-AI-Mira-Mas-Alla-b1m7b3arl5cmm0x)
+
+🖥️ **Sitio web creado en Framer:**  
+[![Ver sitio en Framer](https://img.shields.io/badge/Framer-Sitio_Web_Ray_AI-black?style=flat-square&logo=framer)](https://humorous-marketplaces-175151.framer.app/)
+
 
 ---
 
