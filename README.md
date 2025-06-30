@@ -41,8 +41,6 @@ Este repositorio contiene todos los entregables desarrollados para la campaña d
 
 ## 🌐 Portafolio final
 
-## 🌐 Portafolio final
-
 📽️ **Presentación en Gamma:**  
 [![Ver presentación en Gamma](https://img.shields.io/badge/Gamma-Ray_AI_Mirá_más_allá-blueviolet?style=flat-square&logo=gamma)](https://gamma.app/docs/Ray-AI-Mira-Mas-Alla-b1m7b3arl5cmm0x)
 
